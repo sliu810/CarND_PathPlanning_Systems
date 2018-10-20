@@ -1,0 +1,12 @@
+[submodule "projects/CarND_T3_P1_Path_Planning"]
+	path = projects/CarND_T3_P1_Path_Planning
+	url = https://github.com/sliu810/CarND_T3_P1_Path_Planning.git
+[submodule "projects/CarND_T3_P2_Semantic_Segmentation"]
+	path = projects/CarND_T3_P2_Semantic_Segmentation
+	url = https://github.com/sliu810/CarND_T3_P2_Semantic_Segmentation.git
+[submodule "projects/CarND_T3_Capstone_System_Integration"]
+	path = projects/CarND_T3_Capstone_System_Integration
+	url = https://github.com/sliu810/CarND_T3_Capstone_System_Integration.git
+[submodule "projects/CarND-Object-Detection-Lab"]
+	path = projects/CarND-Object-Detection-Lab
+	url = https://github.com/sliu810/CarND-Object-Detection-Lab.git
